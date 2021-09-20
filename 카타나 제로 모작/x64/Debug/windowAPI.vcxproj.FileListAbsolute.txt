@@ -1,0 +1,4 @@
+C:\Users\KGA_PG1\Documents\카카오톡 받은 파일\카타나 이거다\x64\Debug\windowAPI.exe
+C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\x64\Debug\windowAPI.exe
+C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\x64\Debug\windowAPI.pdb
+D:\카타나 이거다\x64\Debug\windowAPI.exe

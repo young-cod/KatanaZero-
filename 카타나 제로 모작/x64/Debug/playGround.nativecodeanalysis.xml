@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>playGround.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'playGround::dudu' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>playGround::{ctor}</FUNCTION>
+    <DECORATED>??0playGround@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>playGround::dudu</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>playGround.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'playGround::_background' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>playGround::{ctor}</FUNCTION>
+    <DECORATED>??0playGround@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>playGround::_background</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>playGround.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'playGround::_ground' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>playGround::{ctor}</FUNCTION>
+    <DECORATED>??0playGround@@QEAA@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>playGround::_ground</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::_cameraBuffer' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::_cameraBuffer</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::_seeLine' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::_seeLine</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::x' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::x</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::y' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::y</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::_mouse' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::_mouse</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

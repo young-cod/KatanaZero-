@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>run.h</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'run::_count' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>run::{ctor}</FUNCTION>
+    <DECORATED>??0run@@QEAA@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>run::_count</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>jump.h</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'jump::_count' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>jump::{ctor}</FUNCTION>
+    <DECORATED>??0jump@@QEAA@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>jump::_count</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>fall.h</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'fall::_count' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>fall::{ctor}</FUNCTION>
+    <DECORATED>??0fall@@QEAA@XZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>fall::_count</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>fall.h</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'fall::_isGround' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>fall::{ctor}</FUNCTION>
+    <DECORATED>??0fall@@QEAA@XZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>fall::_isGround</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>attack.h</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'attack::_count' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>attack::{ctor}</FUNCTION>
+    <DECORATED>??0attack@@QEAA@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>attack::_count</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::_cameraBuffer' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::_cameraBuffer</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::_seeLine' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::_seeLine</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::x' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::x</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::y' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::y</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Admin\Desktop\지금 해야할거\카타나 이거다\</FILEPATH>
+      <FILENAME>cameraManager.h</FILENAME>
+      <LINE>72</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'cameraManager::_mouse' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6).</DESCRIPTION>
+    <FUNCTION>cameraManager::{ctor}</FUNCTION>
+    <DECORATED>??0cameraManager@@QEAA@XZ</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>cameraManager::_mouse</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
